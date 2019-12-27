@@ -1,6 +1,6 @@
 ---
 id: doc1
-title: Latin-ish
+title: Latin-ish TERRY updated on acer, push to git... 20191227_0736
 sidebar_label: Example Page
 ---
 
